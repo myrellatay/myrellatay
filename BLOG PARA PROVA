@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Vangogh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Van Gogh: O Gênio da Arte e Suas Cores Vivas</h1>
+
+    <p>Vincent van Gogh é uma das figuras mais fascinantes da história da arte. Apesar de uma vida marcada por desafios pessoais e lutas internas, ele conseguiu criar um legado de pinturas que continuam a cativar milhões de pessoas ao redor do mundo. Van Gogh nasceu na Holanda em 1853 e começou sua carreira como artista relativamente tarde, aos 27 anos.</p>
+    <p>Uma das marcas registradas de suas obras é o uso vibrante de cores e pinceladas intensas, que transmitiam emoções profundas. Obras como Noite Estrelada e Girassóis refletem uma sensibilidade única ao que ele via ao seu redor. Seu trabalho explora temas como a natureza, a solidão e a busca por sentido, ressoando com pessoas de diferentes gerações.</p>
+    <div class="container">
+<img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/van-gogh-produziu-a-noite-estrelada-quando-estava-internado-em-um-hospital-psiquiatrico-em-1889-na-franca-5aaa957cb5181.jpg" alt="" width="300" height="200">
+    </div>
+    <div class="menu">
+        <a href="index.html">Sobre</a>
+        <a href="biografia.html">Biografia</a>
+        <a href="obras.html">Obras-primas de Van Gogh</a>
+
+    </div>
+    <div class="conteudos">
+        
+        <h1> Sobre Van Gogh</h1>
+        
+        <h2> A Relação de Van Gogh com a Saúde Mental</h2>
+        <img src="https://s2-g1.glbimg.com/mN95tpeWD4fJteDq6hMn7nqixm8=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/l/r/n8i7brSCe0oAPhvgTmuQ/1-rep-van.jpg" alt="" width="300" height="200">
+        <h3>
+        Vincent van Gogh é frequentemente lembrado tanto por sua genialidade artística quanto por suas intensas lutas com a saúde mental. A vida de Van Gogh foi marcada por crises emocionais, depressão e episódios de comportamento errático, os quais tiveram um impacto profundo em sua arte e na maneira como ele é lembrado.</h3>
+            <h3>Van Gogh sofria de problemas psicológicos severos, embora não haja um consenso claro sobre o diagnóstico exato. Alguns estudiosos sugerem que ele pode ter sofrido de transtorno bipolar, epilepsia, ou mesmo esquizofrenia. Sua saúde mental era precária, o que o levou a internar-se voluntariamente em um hospital psiquiátrico em Saint-Rémy-de-Provence no final de sua vida.</h3>
+            <h3>A tragédia de Van Gogh é que, apesar de sua genialidade, ele nunca recebeu o reconhecimento que merecia em vida e lutou contra seus demônios até o fim. Van Gogh faleceu aos 37 anos, após um tiro autoinfligido, deixando para trás mais de 2.000 obras de arte.</h3>
+            <h3>Sua história, contudo, ressoa fortemente no século 21, onde as discussões sobre saúde mental são mais abertas. Van Gogh tornou-se um símbolo do gênio atormentado, e seu sofrimento e legado continuam a sensibilizar as conversas sobre a relação entre a criatividade e as condições mentais.</h3>
+
+            <h1>A Influência de Van Gogh no Mundo da Arte</h1>
+            <img src="https://artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8YE43F/$FILE/Vincent-van-gogh-sunflowers.Jpg" alt="" width="300" height="200">
+            <h3>mbora Van Gogh tenha começado sua carreira artística dentro do estilo realista, ele rapidamente evoluiu para algo muito mais pessoal e expressivo. Seu trabalho, especialmente no final da década de 1880, quando ele vivia em Arles, no sul da França, foi caracterizado pelo uso ousado de cores e pela intensificação emocional de suas pinceladas. Essa abordagem inovadora é o que o coloca como um precursor direto do movimento expressionista.</h3>
+            <h3>Expressionismo:
+                O expressionismo, que surgiu no início do século 20, foi um movimento que buscou representar não a realidade objetiva, mas as emoções subjetivas e a experiência interior dos artistas. Van Gogh foi um dos primeiros a usar a pintura como uma forma de transmitir suas emoções profundas, como a ansiedade, a solidão e a angústia. Sua técnica de pincelada impetuosa e as paletas de cores contrastantes e saturadas inspiraram uma geração de expressionistas que vieram depois dele, como Edvard Munch (O Grito) e os membros do grupo alemão Die Brücke.</h3>
+    </div>
+</body>
+</html>
+
+CSS
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body h1{
+    color: white;
+    background-color: rgb(112, 65, 3);    
+}
+body{
+   background: tan;
+}
+.container{
+    color: brown;
+}
+
+.menu{
+    color: white
+}
+
+
+
